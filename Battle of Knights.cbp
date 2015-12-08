@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Battle of Knights" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Battle of Knights" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Game of Thrones" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Batalla.cpp" />
+		<Unit filename="Batalla.h" />
+		<Unit filename="Caballero.cpp" />
+		<Unit filename="Caballero.h" />
+		<Unit filename="Comparador.h" />
+		<Unit filename="ElementoInexistenteException.h" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.h" />
+		<Unit filename="IteradorLista.h" />
+		<Unit filename="Lista.h" />
+		<Unit filename="Nodo.h" />
+		<Unit filename="Opcion.cpp" />
+		<Unit filename="Opcion.h" />
+		<Unit filename="Partida.cpp" />
+		<Unit filename="Partida.h" />
+		<Unit filename="Torneo.cpp" />
+		<Unit filename="Torneo.h" />
+		<Unit filename="archivoRegistros.cpp" />
+		<Unit filename="archivoRegistros.h" />
+		<Unit filename="archivoTexto.cpp" />
+		<Unit filename="archivoTexto.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

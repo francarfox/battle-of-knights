@@ -1,0 +1,23 @@
+Presionando [UP] y [DOWN] podras subir y bajar el cursor de seleccion.
+Con [ENTER] y [ESC] podras ejecutar y salir de la opcion seleccionada.
+
+En 'Entrenamiento' podras luchar con un jugador de tu nivel sin armadura,
+donde podras obtener experiencia e items de tu nivel.
+
+En 'Ver Torneos' participaras de torneos de 4 participantes cumpliendo
+el nivel requerido y la comision en oro. En estas batallas el ganador
+obtiene experiencia y el Ganador del Torneo obtiene un 'Item' del  nivel
+del torneo, ademas del doble de comision en oro como premio.
+
+En 'Caballero' veras las estadisticas del caballero y su Inventario.
+Presionando [TAB] podras pasar de Inventario a Equipo para poder equipar
+o desequipar un Item. Con [SUPR] venderas un item del Inventario por oro.
+Al ir subiendo de nivel aprenderas mas tecnicas.
+
+En 'Ranking' podras ver el top 20 de los mejores caballeros por nivel.
+Si tu caballero tiene el nivel o reputacion necesaria, podra ingresar al
+ranking y participar de torneos donde enfrentaras a estos caballeros.
+
+'Casco','Hombreras','Guantes','Pechera','Cinturon' y 'Botas' ayudan a
+reducir el danio enemigo, 'Escudo' ayuda a las chances de resistencia de
+tecnicas enemigas y 'Espada' ayuda a elevar el danio de tu caballero!
